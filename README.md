@@ -1,7 +1,8 @@
 # Crowdfunding_ETL
 ETL mini project
 
-
+Project 2 ,Group 8: Ava Tahmasebi and Rana Mousavi
+Note: We worked through all of the project together but created our own individual Jupyter notebook and repos.
 In this collaborative ETL (Extract, Transform, Load) mini project, our team utilized Python, Pandas, and data manipulation techniques to build an efficient data pipeline. We extracted data from various sources, transformed it, and loaded it into a PostgreSQL database.
 
 Our project involved creating the category and subcategory DataFrames by extracting and transforming data from the crowdfunding.xlsx file. We then exported them as category.csv and subcategory.csv files. Additionally, we processed the campaign DataFrame by converting data types, renaming columns, and adjusting datetime formats. The resulting campaign.csv file contained essential information about campaigns.
